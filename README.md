@@ -46,7 +46,7 @@ This workflow creates an AI agent that can hold a conversation using OpenAI’s 
 
 ### 🔗 Import from Template
 
-1. Visit: [AI Agent Chat Template](https://n8n.io/workflows/ai-agent-chat)
+1. Visit: [AI Agent Chat Template](https://n8n.io/workflows/1954-ai-agent-chat/)
 2. Click **"Use Workflow"** to add it to your workspace
 
 ### 🧩 Workflow Components
